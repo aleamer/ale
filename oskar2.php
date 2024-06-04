@@ -1,6 +1,6 @@
 <?php
-$API_KEY = '097SQv5cW_rB7MXDJqoHwWv0ZVTu3OfLOLkyYqrRkGU';
-$Dev_id = "600132988929,600132988929";
+$API_KEY ='gv9TCSA2yU88ABngQv1_Y4gmwe-LyA2JXC5k42TFjr4';
+$Dev_id ="600132988929,600132988929";
 $urlimg = "https://dev-bdel.pantheonsite.io/wp-admin/Bemo/Picsart_23-07-29_11-35-01-317.jpg";
 $as = [600132988929,600132988929];
 $update_info = "55330098";
